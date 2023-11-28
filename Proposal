@@ -1,0 +1,38 @@
+Proposal for Exploratory Data Analysis: Cryptocurrency Market Dynamics
+
+Team Members
+Ren Tang, Branndon Marion
+
+GitHub Repository
+https://github.com/UC-Berkeley-I-School/Project2_Tang_Marion/
+
+Project Overview
+
+Our team aims to conduct an exploratory data analysis on three significant cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), and Dogecoin (DOGE). The project will be structured around the following three topics:
+
+1. Seasonality Analysis in Cryptocurrency Markets
+
+Objective: To identify any seasonal patterns in the cryptocurrency market, focusing on the best and worst performing months historically for BTC, ETH, and DOGE.
+Approach: Analyze historical monthly price data to detect patterns of seasonality and assess if certain months consistently show higher or lower returns.
+
+2. Analysis of Bitcoin Halving Events
+Objective: Investigate the impact of Bitcoin halving events on BTC's price and potential influences on the broader cryptocurrency market.
+Approach: Examine historical price trends around BTC halving dates and compare market behaviors during these periods to non-halving periods.
+
+3. Comparative Analysis in Bull and Bear Markets
+Objective: Explore the relationships between BTC, ETH, and DOGE during different market conditions, particularly in bull and bear markets.
+Approach: Conduct a comparative analysis of price movements, trading volumes, and market volatility across these cryptocurrencies during various market phases.
+
+Data and Methodology
+Utilize historical price data, including monthly closing prices, for BTC, ETH, and DOGE.
+Employ statistical methods to analyze seasonal trends and identify recurring patterns.
+Comparative analysis will be used to examine the different behaviors of cryptocurrencies in varying market conditions.
+
+Expected Outcomes
+Insights into seasonal trends in the cryptocurrency market.
+Understanding of the effects of BTC halving events on cryptocurrency prices.
+Comparative insights into how different cryptocurrencies behave during bull and bear market phases.
+
+Final Deliverables
+A comprehensive report detailing our findings, supported by statistical analysis and data visualizations.
+An in-class presentation summarizing the key insights and methodologies.
