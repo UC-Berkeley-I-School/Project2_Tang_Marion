@@ -1,14 +1,18 @@
 Proposal for Exploratory Data Analysis: Cryptocurrency Market Dynamics
 
+
 Team Members
 Ren Tang, Branndon Marion
+
 
 GitHub Repository
 https://github.com/UC-Berkeley-I-School/Project2_Tang_Marion/
 
+
 Project Overview
 
-Our team aims to conduct an exploratory data analysis on three significant cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), and Dogecoin (DOGE). The project will be structured around the following three topics:
+Our team aims to conduct an exploratory data analysis on three significant cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), and Dogecoin (DOGE).
+The project will be structured around the following three topics:
 
 1. Seasonality Analysis in Cryptocurrency Markets
 
@@ -23,15 +27,18 @@ Approach: Examine historical price trends around BTC halving dates and compare m
 Objective: Explore the relationships between BTC, ETH, and DOGE during different market conditions, particularly in bull and bear markets.
 Approach: Conduct a comparative analysis of price movements, trading volumes, and market volatility across these cryptocurrencies during various market phases.
 
+
 Data and Methodology
 Utilize historical price data, including monthly closing prices, for BTC, ETH, and DOGE.
 Employ statistical methods to analyze seasonal trends and identify recurring patterns.
 Comparative analysis will be used to examine the different behaviors of cryptocurrencies in varying market conditions.
 
+
 Expected Outcomes
 Insights into seasonal trends in the cryptocurrency market.
 Understanding of the effects of BTC halving events on cryptocurrency prices.
 Comparative insights into how different cryptocurrencies behave during bull and bear market phases.
+
 
 Final Deliverables
 A comprehensive report detailing our findings, supported by statistical analysis and data visualizations.
