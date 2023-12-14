@@ -12,14 +12,14 @@ Main Folder
 Crypto_Explore/explore
 
 
+Target Audience:
+Individuals interested in introduction to investing in cryptocurrencies
+
+
 Main Questions
 - Seasonality: Is there noticeable seasonality in crypto markets, where certain months show consistently higher returns?
 - Correlation: Is there correlation between Bitcoin, Ethereum, and Dogecoin pricing in the market?
 - Investment Horizon: Which investment horizon ( long term, mid term, short term ) tends to be more predictable and profitable in crypto investing?
-
-
-Target Audience:
-Individuals interested in introduction to investing in cryptocurrencies
 
 
 Note:
